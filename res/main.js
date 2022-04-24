@@ -103,11 +103,12 @@ function createCardDeck() {
 
     // implement logic
     let loadCard = (id) => {
+        if (cardDeck.hasClass("loading")) return;
+        cardDeck.toggleClass("loading", true);
+
         id = Math.min(Math.max(parseInt(id), 1), MAX_CARDS);
         if(isNaN(id)) id=1;
         input.val(id);
-        if (cardDeck.hasClass("loading")) return;
-        cardDeck.toggleClass("loading", true);
 
         createCard(id).then(card => {
             cardDeck.find(".rct-card").remove();
