@@ -122,15 +122,11 @@ function createCardDeck() {
 
     buttonPrev.click(function () {
         let id = parseInt(input.val()) - 1;
-        if (id < 1) id = 1;
-        input.val(id);
         loadCard(id);
     });
 
     buttonNext.click(function () {
         let id = parseInt(input.val()) + 1;
-        if (id > MAX_CARDS) id = MAX_CARDS;
-        input.val(id);
         loadCard(id);
     });
 
