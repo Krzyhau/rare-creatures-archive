@@ -1,0 +1,12 @@
+{
+    "name": "GPT-2 AI",
+    "stats": {
+        "hp": 100,
+        "atk": 10,
+        "def": 20
+    },
+    "skill": "Shitpost",
+    "desc": "It talks.",
+    "author": "DeltaT#4005",
+    "date": "2021/09/30"
+}

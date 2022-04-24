@@ -1,0 +1,12 @@
+{
+    "name": "A Man With A Gun",
+    "stats": {
+        "hp": 75,
+        "atk": 125,
+        "def": 100
+    },
+    "skill": "Killing",
+    "desc": "Many years ago he was woreking as a professional hitman, but one mission changed his mindset forever. From now on he's a madlad killing people for fun, using his guy with precise accuracy.",
+    "author": "Haszek#9153",
+    "date": "2021/10/03"
+}

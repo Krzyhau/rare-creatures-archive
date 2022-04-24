@@ -1,0 +1,12 @@
+{
+    "name": "PS1 Shia LaBeouf",
+    "stats": {
+        "hp": 1000,
+        "atk": 100,
+        "def": 100
+    },
+    "skill": "Self-motivation",
+    "desc": "Has an epic boss battle theme. His skill works only on greenscreen.",
+    "author": "Krzyhau#8514",
+    "date": "2021/10/01"
+}

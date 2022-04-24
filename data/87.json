@@ -1,0 +1,12 @@
+{
+    "name": "Kanye Cake",
+    "stats": {
+        "hp": 20,
+        "atk": 1,
+        "def": 2
+    },
+    "skill": "Autotune Force",
+    "desc": "Contrary to normal cakes, this one is alive. Makes you talk in auto tune for a while.",
+    "author": "δDD#6335",
+    "date": "2022/01/12"
+}

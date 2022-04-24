@@ -1,0 +1,12 @@
+{
+    "name": "Monty Python And The Holy Grail's Black Knight (Final Form)",
+    "stats": {
+        "hp": "INF",
+        "atk": 0,
+        "def": 0
+    },
+    "skill": "Invincibility",
+    "desc": "He's not pulling a leg. Very handy in battle. Always armed and ready to get on his fit. At his worst, he'll draw.",
+    "author": "Krzyhau#8514",
+    "date": "2021/11/18"
+}

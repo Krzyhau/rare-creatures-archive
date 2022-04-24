@@ -1,0 +1,12 @@
+{
+    "name": "RGB Gaming Jellyfish",
+    "stats": {
+        "hp": 50,
+        "atk": 10,
+        "def": 12
+    },
+    "skill": "RGB Gaming Jellyfish",
+    "desc": "RGB Gaming Jellyfish.",
+    "author": "DeltaT#4005",
+    "date": "2021/09/23"
+}

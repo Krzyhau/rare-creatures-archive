@@ -1,0 +1,12 @@
+{
+    "name": "Nail Guardsman",
+    "stats": {
+        "hp": 7,
+        "atk": 100,
+        "def": "213(213)"
+    },
+    "skill": "Healing Russian Roulette",
+    "desc": "Can knockout you with kaleidoscope. Has a chance to overheal himself to 10K HP or fucking dies.",
+    "author": "Paszczun#1506",
+    "date": "2021/09/23"
+}

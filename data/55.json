@@ -1,0 +1,12 @@
+{
+    "name": "Mouse In Baked Beans",
+    "stats": {
+        "hp": 10,
+        "atk": 10000000,
+        "def": 10000000
+    },
+    "skill": "Fence Jumping",
+    "desc": "mouse 19 in baked beans.",
+    "author": "VEGA#9093",
+    "date": "2021/10/24"
+}

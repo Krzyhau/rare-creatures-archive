@@ -1,0 +1,12 @@
+{
+    "name": "Lily",
+    "stats": {
+        "hp": 10,
+        "atk": 0,
+        "def": 60
+    },
+    "skill": "Sleeping/Eating",
+    "desc": "She just sits there and does fuck all yet she's somehow underweight.",
+    "author": "Nightmarebro932#3392",
+    "date": "2021/11/19"
+}

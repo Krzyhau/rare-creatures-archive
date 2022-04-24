@@ -1,0 +1,251 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:ital,wght@0,400;0,700;0,900;1,400;1,700&display=swap');
+
+html{
+    overflow: hidden;
+}
+
+body{
+    background: #36393f;
+    color: #dcddde;
+    font-family: 'Kanit', sans-serif;
+    font-size: 1.55vh;
+    margin: 0;
+    
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    width:100vw;
+    height:100vh;
+    overflow: none;
+    position: relative;
+}
+
+.battle{
+    //background: url('res/zoombg.webp');
+    //background-size: cover;
+}
+
+h1{
+    margin:0.5em;
+    font-size: 5em;
+    text-shadow: 0 0 0.1em #0005;
+}
+
+h2{
+    position: absolute;
+    top: -0.7em;
+    transform-origin: center;
+    transform: rotate(-4deg);
+    font-size:5em;
+    white-space: nowrap;
+    color: #ffffff66;
+    user-select: none;
+    z-index: -1;
+
+    span{
+        position:absolute;
+        font-size:0.5em;
+        bottom:-0.5em;
+        right:0.7em;
+        color: #ffffff44;
+        transform: rotate(2deg);
+    }
+}
+
+.rct-card{
+    position:relative;
+    user-select: none;
+
+    background-color: #18191c;
+    width: 30em;
+    height: 48em;
+    padding: 0.1em;
+    border-radius: 0.5em;
+
+    box-shadow: 0 0 0.5em #0005;
+
+    &>.header{
+        background:#242629;
+        margin:1em;
+        border-radius: 0.5em;
+        height:3em;
+
+        .id{
+            position:absolute;
+            top:0.5em;
+            left:0.5em;
+
+            width:2.7em;
+            height:1.8em;
+            display:flex;
+            justify-content: center;
+            align-items: center;
+            font-weight: 900;
+            font-size: 1.2em;
+
+            background:#36393f;
+            border-radius: 0.5em;
+        }
+
+        .name{
+            font-size: 2em;
+            font-weight: bold;
+            width:100%;
+            height:100%;
+            text-align: center;
+            color: white;
+            display:flex;
+            justify-content: center;
+            align-items: center;
+        }
+    }
+
+    &>.image{
+        width:28em;
+        height:28em;
+        margin:1em;
+        border-radius: 0.5em;
+        overflow: hidden;
+        display:flex;
+
+        img{
+            width:100%;
+            margin:0;
+            padding:0;
+        }
+    }
+
+    &>.stats{
+        display:flex;
+        justify-content: center;
+        align-items: bottom;
+
+        font-size: 1.2em;
+
+        height:0;
+        overflow: visible;
+        position:relative;
+        
+        .stats-inner{
+            display:flex;
+            position: absolute;
+            bottom:0.5em;
+        }
+
+        .stat{
+            height:auto;
+            display:flex;
+            align-items: center;
+            margin: 0 0.2em;
+            line-height: 1;
+            padding-left: 0.5em;
+
+            background: #4a4d53;
+            border-radius: 0.3em;
+
+            .stat-name{
+                font-weight: bold;
+                text-transform: uppercase;
+            }
+
+            .stat-value{
+                font-weight: 900;
+                background: #00000066;
+                border-radius: 0.3em;
+                padding: 0.5em 0.5em;
+                margin-left: 0.5em;
+                min-height:1em;
+                min-width:1em;
+            }
+
+            &.hp{background-color: #9b5144;}
+            &.atk{background-color: #5a949c;}
+            &.def{background-color: #5a9c60;}
+            &.spd{background-color: #669edf;}
+            &.lck{background-color: #8bb94f;}
+            &.holy{background-color: #4abbc4; background-image: linear-gradient(to bottom, #4abbc4, #bb8f3d);}
+            &.pekko{background-color: #c4b24a;}
+        }
+    }
+    
+    &>.main-skill{
+        display:flex;
+        justify-content: center;
+        margin: 0.3em 1em 0.5em;
+        border-radius: 0.5em;
+        background: #36393f;
+
+        padding: 0.2em 0;
+
+        .main-skill-title{
+            font-size:1.2em;
+            margin-right: 0.3em;
+        }
+
+        .main-skill-name{
+            font-size:1.2em;
+            font-weight: bold;
+        }
+    }
+
+    &>.description{
+        display:flex;
+        margin: 0.8em 1em 0.2em;
+        border-radius: 0.5em;
+        
+        padding:0.5em;
+
+        background: #202225;
+
+        height:7.5em;
+    }
+
+    &>.footer{
+        display:flex;
+        justify-content: space-between;
+        margin: 0 1.1em;
+
+        color:#4a4d53;
+
+        padding: 0.2em 0;
+    }
+}
+
+.deck-controller{
+    display:flex;
+    font-size: 2em;
+    padding:1em;
+    padding-top:3em;
+
+    .arrow{
+        background-color: #4a4d53;
+        padding: 0.0em 0.3em;
+        border-radius: 0.3em;
+        margin: 0 0.3em;
+        cursor:pointer;
+        user-select: none;
+
+        &:hover{
+            background-color: #595c63;
+        }
+    }
+
+    input{
+        border:none;
+        background-color: #202225;
+        font-size: 1em;
+        width:3em;
+        text-align: center;
+        color: #dcddde;
+        font-family: 'Kanit', sans-serif;
+        border-radius: 0.3em;
+    }
+
+}
+
+.deck{
+    display:flex;
+    flex-direction:column;
+    justify-content: center;
+    align-items: center;
+}

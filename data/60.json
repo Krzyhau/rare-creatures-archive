@@ -1,0 +1,12 @@
+{
+    "name": "Doghead",
+    "stats": {
+        "hp": 50,
+        "atk": 10,
+        "def": 10
+    },
+    "skill": "Bark Of The Damned",
+    "desc": "He has such sights to show you.",
+    "author": "Toast#5150",
+    "date": "2021/11/02"
+}

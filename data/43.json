@@ -1,0 +1,12 @@
+{
+    "name": "Toby Stank",
+    "stats": {
+        "hp": 100,
+        "atk": 10,
+        "def": 10
+    },
+    "skill": "(none)",
+    "desc": "Regular motherfucker. Tried to build an armour out of carton boxes once.",
+    "author": "Krzyhau#8514",
+    "date": "2021/10/07"
+}

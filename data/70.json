@@ -1,0 +1,12 @@
+{
+    "name": "Teethless Trollface",
+    "stats": {
+        "hp": 80,
+        "atk": 50,
+        "def": 40
+    },
+    "skill": "Trolling",
+    "desc": "No teeth",
+    "author": "D2RG6#9035",
+    "date": "2021/11/10"
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Euro Kerbo",
+    "stats": {
+        "hp": 100,
+        "atk": 50,
+        "def": 50,
+        "spd": 10000
+    },
+    "skill": "Warpu Staro Dorifto",
+    "desc": "NANI?!?!?!?!",
+    "author": "Krzyhau#8514",
+    "date": "2021/10/01"
+}

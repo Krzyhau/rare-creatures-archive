@@ -1,0 +1,12 @@
+{
+    "name": "TOMATO",
+    "stats": {
+        "hp": 10,
+        "atk": 2,
+        "def": 5
+    },
+    "skill": "Bench Sitting",
+    "desc": "Its tomto ketchup. it sits on the blue metal bench.",
+    "author": "DeltaT#4005",
+    "date": "2021/10/05"
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Milkman",
+    "stats": {
+        "hp": 100,
+        "atk": 3000,
+        "def": 200
+    },
+    "skill": "Exploding Milk",
+    "desc": "He's the milkman. His milk is delicious. He won't rest until his final delivery.",
+    "author": "Krzyhau#8514",
+    "date": "2022/02/08"
+}

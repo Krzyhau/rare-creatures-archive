@@ -1,0 +1,12 @@
+{
+    "name": "Okina Kemuri",
+    "stats": {
+        "hp": 200,
+        "atk": 200,
+        "def": 500
+    },
+    "skill": "Order",
+    "desc": "Japaneese reincarnation of Big Smoke. Currently he's looking for the Legendary Horseman that will help him follow the Sacred Train of Sin.",
+    "author": "Krzyhau#8514",
+    "date": "2021/10/23"
+}

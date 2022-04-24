@@ -1,0 +1,12 @@
+{
+    "name": "Marlboro Lord",
+    "stats": {
+        "hp": 200,
+        "atk": 10,
+        "def": 80
+    },
+    "skill": "Nicotine Addiction",
+    "desc": "Gives people a costly addiction that causes them to die slowly - smoking kills. Also, smokes screen.",
+    "author": "D2RG6#9035",
+    "date": "2021/10/05"
+}

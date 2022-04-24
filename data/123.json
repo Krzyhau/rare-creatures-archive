@@ -1,0 +1,12 @@
+{
+    "name": "Libyans",
+    "stats": {
+        "hp": 100,
+        "atk": 200,
+        "def": 300
+    },
+    "skill": "Drive-by",
+    "desc": "Tried to develop a nuclear weapon, but some random crazy scientist used up all of the plutonium. They're angry as hell.",
+    "author": "Krzyhau#8514",
+    "date": "2022/03/21"
+}

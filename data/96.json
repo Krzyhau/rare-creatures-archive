@@ -1,0 +1,12 @@
+{
+    "name": "Mathos",
+    "stats": {
+        "hp": 100,
+        "atk": "INF",
+        "def": "INF"
+    },
+    "skill": "Infinite Bodging",
+    "desc": "His television was losing a signal, so he decided to obtain all 6 infinity stones in order to fix it.",
+    "author": "Krzyhau#8514",
+    "date": "2022/01/24"
+}

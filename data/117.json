@@ -1,0 +1,12 @@
+{
+    "name": "Waav Putin",
+    "stats": {
+        "hp": "INF",
+        "atk": "INF",
+        "def": 1000000
+    },
+    "skill": "Waav",
+    "desc": "uptni.",
+    "author": "VEGA#9093",
+    "date": "2022/02/25"
+}

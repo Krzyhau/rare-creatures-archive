@@ -1,0 +1,12 @@
+{
+    "name": "Nala",
+    "stats": {
+        "hp": 1,
+        "atk": 5,
+        "def": 2
+    },
+    "skill": "Quick Escape",
+    "desc": "Playful rescue that's scared of everythind - runs away at light speed every time a small noise startles her. Will also bark every time someone enters the room because she forgot they existed.",
+    "author": "Nightmarebro932#3392",
+    "date": "2021/11/04"
+}

@@ -1,0 +1,12 @@
+{
+    "name": "The Even More Sexy Wheatley",
+    "stats": {
+        "hp": 70,
+        "atk": 100,
+        "def": 50
+    },
+    "skill": "Moron",
+    "desc": "...",
+    "author": "Astrid_Granger#8328",
+    "date": "2021/09/29"
+}

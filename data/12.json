@@ -1,0 +1,12 @@
+{
+    "name": "Chicken Atlas",
+    "stats": {
+        "hp": 10,
+        "atk": 20,
+        "def": 5
+    },
+    "skill": "Chicken Atlas",
+    "desc": "Chicken Atlas.",
+    "author": "Krzyhau#8514",
+    "date": "2021/09/24"
+}

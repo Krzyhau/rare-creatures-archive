@@ -1,0 +1,12 @@
+{
+    "name": "Florida Stanley",
+    "stats": {
+        "hp": 100,
+        "atk": 100,
+        "def": 500
+    },
+    "skill": "Persuasion",
+    "desc": "Florida Stanley smiles. Florida Stanley is happy to go to work. Florida Stanley is who you want on your Florida team.",
+    "author": "Krzyhau#8514",
+    "date": "2021/11/10"
+}

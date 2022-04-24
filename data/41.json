@@ -1,0 +1,12 @@
+{
+    "name": "Homer-Pikachu",
+    "stats": {
+        "hp": 3,
+        "atk": 5,
+        "def": 1
+    },
+    "skill": "Stare",
+    "desc": "He's very b.",
+    "author": "Kiwi!#7781",
+    "date": "2021/10/07"
+}

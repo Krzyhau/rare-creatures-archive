@@ -1,0 +1,12 @@
+{
+    "name": "The Rider",
+    "stats": {
+        "hp": 1000,
+        "atk": 10,
+        "def": 9999
+    },
+    "skill": "Speed",
+    "desc": "The rider does not stop.",
+    "author": "Krzyhau#8514",
+    "date": "2022/03/19"
+}

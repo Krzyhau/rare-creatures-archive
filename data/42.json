@@ -1,0 +1,12 @@
+{
+    "name": "Sad Shadow Blob",
+    "stats": {
+        "hp": -1000,
+        "atk": 15,
+        "def": 0
+    },
+    "skill": "Duplication On Death",
+    "desc": "If cut, he will be split into two other slimes. Is very sad :(. Cannot be killed as he has negative HP, can only be revived.",
+    "author": "ForgottenHorror#8370",
+    "date": "2021/10/07"
+}

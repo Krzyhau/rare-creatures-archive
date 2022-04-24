@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rarest Creature Tournament - Card Deck</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="res/main.js"></script>
+
+    <link rel="stylesheet/less" type="text/css" href="res/style.less" />
+    <script src="https://cdn.jsdelivr.net/npm/less@4"></script>
+</head>
+<body>
+    <h2>#rare-creatures <span>archive</span></h2>
+    <script>
+        const urlParams = new URLSearchParams(window.location.search);
+        let id = urlParams.get('id') ?? 1;
+
+        if(urlParams.has("battle")){
+             $("body").append(createCardDeck());
+
+            $("body").append("<h1>VS</h1>");
+
+            $("body").append(createCardDeck());
+
+            $("body").addClass("battle");
+        }else if(urlParams.has("id")){
+            createCard(urlParams.get("id")).then(card => {
+                $("body").append(card);
+            });
+        }else{
+            $("body").append(createCardDeck());
+        }
+    </script>
+</body>
+</html>

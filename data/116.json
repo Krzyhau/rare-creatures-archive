@@ -1,0 +1,12 @@
+{
+    "name": "Mudguin",
+    "stats": {
+        "hp": 10,
+        "atk": 20,
+        "def": 10
+    },
+    "skill": "Negativity",
+    "desc": "A special form of a penguin. It raises from the mud to judge your sins.",
+    "author": "Krzyhau#8514",
+    "date": "2022/02/22"
+}

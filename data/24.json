@@ -1,0 +1,12 @@
+{
+    "name": "Boat Dog",
+    "stats": {
+        "hp": 50,
+        "atk": 70,
+        "def": 100
+    },
+    "skill": "Boat Sailing",
+    "desc": "Boat Dog. Going thru the ocean by using her boat.",
+    "author": "Skelegame191#1606",
+    "date": "2021/10/02"
+}

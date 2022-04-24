@@ -1,0 +1,12 @@
+{
+    "name": "Pepep The Pepepus",
+    "stats": {
+        "hp": 5,
+        "atk": 50,
+        "def": 20
+    },
+    "skill": "doobeedoobeedooba",
+    "desc": "Extremely effective on people wearing doctor's apron.",
+    "author": "Krzyhau#8514",
+    "date": "2021/10/01"
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Gordon Speedman",
+    "stats": {
+        "hp": 1,
+        "atk": 25,
+        "def": 100
+    },
+    "skill": "Accelerated Backwards Hop",
+    "desc": "He's commonly seen as an orange dot, flying through the air.",
+    "author": "Krzyhau#8514",
+    "date": "2021/09/24"
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Worm God",
+    "stats": {
+        "hp": "All",
+        "atk": "All",
+        "def": "All"
+    },
+    "skill": "God",
+    "desc": "He's a god. A concept of defeating a god is questionable at best.",
+    "author": "Krzyhau#8514",
+    "date": "2022/02/07"
+}

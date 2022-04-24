@@ -1,0 +1,12 @@
+{
+    "name": "Horned Horn",
+    "stats": {
+        "hp": 0,
+        "atk": 69,
+        "def": 0.01
+    },
+    "skill": "Smell",
+    "desc": "Tho it doesn't have a nose it can smell blood bettern than a shark.",
+    "author": "utopielec#1175",
+    "date": "2021/12/26"
+}

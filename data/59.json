@@ -1,0 +1,12 @@
+{
+    "name": "Very Workable Parrot",
+    "stats": {
+        "hp": 50,
+        "atk": 9,
+        "def": 0.1
+    },
+    "skill": "Breins",
+    "desc": "Do you really want to fight with him?",
+    "author": "Viflame#7052",
+    "date": "2021/11/02"
+}

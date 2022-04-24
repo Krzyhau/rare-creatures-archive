@@ -1,0 +1,12 @@
+{
+    "name": "Jesus of Nazareth",
+    "stats": {
+        "hp": 7,
+        "atk": 0,
+        "holy": 500
+    },
+    "skill": "Wine Creation",
+    "desc": "Jesus taking the escalator to begin his new life after another resurrection.",
+    "author": "Babyfurz#0152",
+    "date": "2022/02/26"
+}

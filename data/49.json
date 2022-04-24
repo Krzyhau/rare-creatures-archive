@@ -1,0 +1,11 @@
+{
+    "name": "Yoda DeVito",
+    "stats": {
+        "hp": 5,
+        "atk": 20,
+        "def": 15
+    },
+    "skill": "Jedi Training",
+    "author": "Astrid_Granger#8328",
+    "date": "2021/11/13"
+}

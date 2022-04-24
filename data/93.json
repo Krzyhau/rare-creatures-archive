@@ -1,0 +1,12 @@
+{
+    "name": "Saxophone Mort",
+    "stats": {
+        "hp": 10,
+        "atk": 100,
+        "def": 999999999
+    },
+    "skill": "Sexiest Saxophone Solo",
+    "desc": "Can spawn only on a full moon at the top of the highest bamboo trees of Madagascar.",
+    "author": "Krzyhau#8514",
+    "date": "2022/01/17"
+}

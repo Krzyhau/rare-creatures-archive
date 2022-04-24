@@ -1,0 +1,12 @@
+{
+    "name": "Dog Chainsaw",
+    "stats": {
+        "hp": 25,
+        "atk": 100,
+        "def": 10
+    },
+    "skill": "Sawing",
+    "desc": "Don't make him happy, otherwise he will cut your leg.",
+    "author": "ForgottenHorror#8370",
+    "date": "2021/10/17"
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Alabama Weatherman",
+    "stats": {
+        "hp": 15,
+        "atk": 10,
+        "def": 10
+    },
+    "skill": "+1000 Looks",
+    "desc": "Due to his insanely good looks, he is invincible.",
+    "author": "Fridge#6641",
+    "date": "2021/11/10"
+}

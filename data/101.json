@@ -1,0 +1,12 @@
+{
+    "name": "Musicus",
+    "stats": {
+        "hp": 100,
+        "atk": 0,
+        "def": 0
+    },
+    "skill": "Annoyance",
+    "desc": "The result of boredom in computer graphics class, musicus has gone on to be the most unfunny inside \"joke\" there is.",
+    "author": "Nightmarebro932#3392",
+    "date": "2022/01/27"
+}

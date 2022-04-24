@@ -1,0 +1,12 @@
+{
+    "name": "Extrapolated Garfield",
+    "stats": {
+        "hp": 10,
+        "atk": 2000,
+        "def": "BEST"
+    },
+    "skill": "Defence",
+    "desc": "Ate so many lasagnas he extrapolated his mass to unthinkable levels, creating defence layer of fat unseen before.",
+    "author": "Krzyhau#8514",
+    "date": "2022/04/24"
+}

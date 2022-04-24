@@ -1,0 +1,12 @@
+{
+    "name": "Frank Kamikaze",
+    "stats": {
+        "hp": 35,
+        "atk": 10000,
+        "def": 5
+    },
+    "skill": "Boom",
+    "desc": "There is a modified red sphere bomb inside it!",
+    "author": "CUmbrix#8683",
+    "date": "2021/10/25"
+}

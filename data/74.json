@@ -1,0 +1,12 @@
+{
+    "name": "matlas",
+    "stats": {
+        "hp": 2,
+        "atk": 2,
+        "def": 2
+    },
+    "skill": "2",
+    "desc": "Was tired of coming in second so he turned into Atlas.",
+    "author": "Nightmarebro932#3392",
+    "date": "2021/11/18"
+}

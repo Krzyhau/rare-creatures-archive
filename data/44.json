@@ -1,0 +1,12 @@
+{
+    "name": "A Box Of Kurzees",
+    "stats": {
+        "hp": 999,
+        "atk": 600,
+        "def": 500
+    },
+    "skill": "---",
+    "desc": "A box of endless kurzees",
+    "author": "Hambrix#8136",
+    "date": "2021/10/08"
+}

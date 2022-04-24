@@ -1,0 +1,12 @@
+{
+    "name": "Mirror With Da Face",
+    "stats": {
+        "hp": 25,
+        "atk": 255,
+        "def": -50
+    },
+    "skill": "Spell Reflection",
+    "desc": "A mirror of the unknown origin, a powerful magic artifact. Can use a variety of psychic attacks, and mimic previously reflected magic spells. The mirror can teleport itself when no one is looking at it or when observer is hypnotized. This artifact seems to be self conscious and somehow alive. It's possible to communicate with it. Will not attack anyone unless provoked. Is vulnerable to physical attacks.",
+    "author": "R3fo0N#3564",
+    "date": "2021/10/10"
+}

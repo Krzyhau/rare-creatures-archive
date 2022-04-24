@@ -1,0 +1,12 @@
+{
+    "name": "Pot Man With SMG",
+    "stats": {
+        "hp": 100,
+        "atk": 45,
+        "def": 145
+    },
+    "skill": "Indestructible Pot Helmet",
+    "desc": "Noone really knows who he is or where does he came from. He has been found around two years ago when group of urban explorers were searching for adventures in abandoned car factory. When Pot Man saw them walking around he opened fire from his SMG successfully killing two of the exploreres. Rest of the group fastly exited the building and called the Police. Police came but couldn't find anything. The bodies were missing and the murderer in the pot was nowhere to be seen. Some people are saying that he's still inside the factory slaughtering anyone that is brave enough to come inside.",
+    "author": "Haszek#9153",
+    "date": "2021/10/04"
+}

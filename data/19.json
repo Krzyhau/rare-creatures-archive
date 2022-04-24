@@ -1,0 +1,12 @@
+{
+    "name": "4chan User",
+    "stats": {
+        "hp": 100,
+        "atk": 20,
+        "def": 70
+    },
+    "skill": "Trolling/Doxing",
+    "desc": "/b/",
+    "author": "D2RG6#9035",
+    "date": "2021/09/30"
+}

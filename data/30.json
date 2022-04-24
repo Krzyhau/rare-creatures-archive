@@ -1,0 +1,12 @@
+{
+    "name": "Krzyhau",
+    "stats": {
+        "hp": 100,
+        "atk": 20,
+        "def": 50
+    },
+    "skill": "Triple Laser",
+    "desc": "Triple Laser.",
+    "author": "Vuk_USTIPAK#3326",
+    "date": "2021/10/04"
+}

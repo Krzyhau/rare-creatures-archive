@@ -1,0 +1,12 @@
+{
+    "name": "Wild Toilet",
+    "stats": {
+        "hp": 10,
+        "atk": 0,
+        "def": 1
+    },
+    "skill": "Fecal Consuption",
+    "desc": "Will you feed it?",
+    "author": "Krzyhau#8514",
+    "date": "2022/03/17"
+}

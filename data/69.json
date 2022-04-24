@@ -1,0 +1,12 @@
+{
+    "name": "The Mad Man",
+    "stats": {
+        "hp": 10,
+        "atk": 0,
+        "def": 0
+    },
+    "skill": "Tear Laughing",
+    "desc": "Just an emoji. Nothing funny here.",
+    "author": "Trash7Can#6707",
+    "date": "2021/10/16"
+}

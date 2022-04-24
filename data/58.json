@@ -1,0 +1,12 @@
+{
+    "name": "BuzzRTX",
+    "stats": {
+        "hp": 600,
+        "atk": 100,
+        "def": 200
+    },
+    "skill": "Pilot",
+    "desc": "He's raytraced aight.",
+    "author": "Krzyhau#8514",
+    "date": "2021/10/31"
+}

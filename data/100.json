@@ -1,0 +1,12 @@
+{
+    "name": "Just John",
+    "stats": {
+        "hp": 100,
+        "atk": 7,
+        "def": 20
+    },
+    "skill": "Standing",
+    "desc": "He's there.",
+    "author": "δDD#6335",
+    "date": "2022/01/27"
+}

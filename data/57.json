@@ -1,0 +1,12 @@
+{
+    "name": "Mr. Miniboss",
+    "stats": {
+        "hp": 5000,
+        "atk": 400,
+        "def": 70
+    },
+    "skill": "Limb duplication",
+    "desc": "Mr. Miniboss moves his limbs in ways not humanly possible and summoning extra limbs. Keeps most of his body hidden behind a greenscreen. No one knows why.",
+    "author": "Ember#0845",
+    "date": "2021/10/29"
+}

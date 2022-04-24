@@ -1,0 +1,12 @@
+{
+    "name": "Moving Wheatley Cube",
+    "stats": {
+        "hp": 100,
+        "atk": 1,
+        "def": 50
+    },
+    "skill": "Moving",
+    "desc": "Wheatley fused with a turret-cube. Is mostly a pain in the ass due to it moving about.",
+    "author": "Ember#0845",
+    "date": "2021/10/17"
+}

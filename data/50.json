@@ -1,0 +1,12 @@
+{
+    "name": "Disco Dinosaur",
+    "stats": {
+        "hp": 200,
+        "atk": 100,
+        "def": 100
+    },
+    "skill": "Ultrasound Banger",
+    "desc": "Very funky. Went extinct in 80's. Can emit Ultrasound Banger right from its vocal cords.",
+    "author": "Krzyhau#8514",
+    "date": "2021/10/15"
+}

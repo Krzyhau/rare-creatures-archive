@@ -1,0 +1,12 @@
+{
+    "name": "Angry Bread",
+    "stats": {
+        "hp": 50,
+        "atk": 20,
+        "def": 15
+    },
+    "skill": "Toxic Smell",
+    "desc": "Angry Bread that somehow grew its own legs and brain. Also uses discord as seen.",
+    "author": "Just a Goose#1604",
+    "date": "2022/02/01"
+}

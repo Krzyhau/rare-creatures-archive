@@ -1,0 +1,12 @@
+{
+    "name": "Bug With The Knife",
+    "stats": {
+        "hp": 0.5,
+        "atk": 400,
+        "def": 9000
+    },
+    "skill": "Knife Wielding",
+    "desc": "You'd better not to know what thoughts hide inside its head.",
+    "author": "Viflame#7052",
+    "date": "2021/12/11"
+}

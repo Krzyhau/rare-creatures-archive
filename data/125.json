@@ -1,0 +1,12 @@
+{
+    "name": "Lunar Moth",
+    "stats": {
+        "hp": 9999,
+        "atk": 31,
+        "def": 12
+    },
+    "skill": "Darkness Fog Cast",
+    "desc": "Unlike other regular Moths, this rare specimen repels light rather than be attracted towards it. But it's still just as useless.",
+    "author": "MrGermandeutsch#0245",
+    "date": "2022/04/24"
+}

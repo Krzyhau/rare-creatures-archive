@@ -1,0 +1,12 @@
+{
+    "name": "H E",
+    "stats": {
+        "hp": "ALL",
+        "atk": "ALL",
+        "def": "ALL"
+    },
+    "skill": "B E A N",
+    "desc": "Forged from default assets of Unity.",
+    "author": "Krzyhau#8514",
+    "date": "2021/10/04"
+}

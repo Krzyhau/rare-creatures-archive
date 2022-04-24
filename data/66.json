@@ -1,0 +1,12 @@
+{
+    "name": "Cherokee Jack",
+    "stats": {
+        "hp": 500,
+        "atk": 10000,
+        "def": 100
+    },
+    "skill": "Mop",
+    "desc": "Ice Bender, Master of the Hockey. It is told he can control a puck without a hockey stick. A former teacher of the one and only Michael Scarn.",
+    "author": "Krzyhau#8514",
+    "date": "2021/11/09"
+}

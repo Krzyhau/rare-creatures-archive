@@ -1,0 +1,12 @@
+{
+    "name": "Pipis",
+    "stats": {
+        "hp": 200,
+        "atk": 8,
+        "def": 0
+    },
+    "skill": "Egg Shape",
+    "desc": "Pipis.",
+    "author": "fkwilczek#8784",
+    "date": "2021/10/03"
+}

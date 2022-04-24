@@ -1,0 +1,12 @@
+{
+    "name": "Hector",
+    "stats": {
+        "hp": 1,
+        "atk": 3,
+        "def": 5
+    },
+    "skill": "Chuffing Back A Fat Dart",
+    "desc": "Hector has a crippling addiction to cigarettes.",
+    "author": "Nightmarebro932#3392",
+    "date": "2021/11/18"
+}

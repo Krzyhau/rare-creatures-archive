@@ -1,0 +1,12 @@
+{
+    "name": "Derek Bum",
+    "stats": {
+        "hp": 100,
+        "atk": 500,
+        "def": 100
+    },
+    "skill": "Kitchen Gun",
+    "desc": "Gun is solution to everything, even cleaning. Natural evolution of A Man With A Gun.",
+    "author": "Krzyhau#8514",
+    "date": "2021/10/03"
+}

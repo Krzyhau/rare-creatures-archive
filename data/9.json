@@ -1,0 +1,12 @@
+{
+    "name": "Lambda Male",
+    "stats": {
+        "hp": 100,
+        "atk": 25,
+        "def": 100
+    },
+    "skill": "Brain Usage",
+    "desc": "Silent but strong.",
+    "author": "D2RG6#9035",
+    "date": "2021/09/24"
+}

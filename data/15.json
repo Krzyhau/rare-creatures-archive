@@ -1,0 +1,12 @@
+{
+    "name": "Dark Persian Knight",
+    "stats": {
+        "hp": 1000,
+        "atk": 4000,
+        "def": 80
+    },
+    "skill": "Carpet Bomb",
+    "desc": "Uses his carpet to carpet bomb his enemies, sometimes even uses it as a shield (10K DEF) or transportation. The carpet is not actually from Persia.",
+    "author": "ForgottenHorror#8370",
+    "date": "2021/09/27"
+}

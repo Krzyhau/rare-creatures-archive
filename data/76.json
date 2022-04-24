@@ -1,0 +1,12 @@
+{
+    "name": "Quakliner",
+    "stats": {
+        "hp": 69,
+        "atk": 3,
+        "def": 420
+    },
+    "skill": "Conversation",
+    "desc": "A fusion with Quagmire and Dr. Kleiner. Probably a failed experiment. Starts a normal conversation with \"Do you know who ate all the donuts?\".",
+    "author": "D2RG6#9035",
+    "date": "2021/11/18"
+}

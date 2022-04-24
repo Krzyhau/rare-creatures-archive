@@ -1,0 +1,12 @@
+{
+    "name": "Canine Business Twins",
+    "stats": {
+        "hp": 500,
+        "atk": 100,
+        "def": 50
+    },
+    "skill": "Business",
+    "desc": "Highly successful business dogs. Despite having low base atk and def, they can still put up a fight due to the armored suits and powerful weapons they bought after selling NFTs for profit. Their fight can be easily skipped by making a payment of 100000 kakacoins, which quickly rises in value as the game progresses, and if you skipped the fight, they will give you part of their kaka-funds near the endgame.",
+    "author": "Ember#0845",
+    "date": "2022/01/26"
+}

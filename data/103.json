@@ -1,0 +1,12 @@
+{
+    "name": "Chainsaw Bear",
+    "stats": {
+        "hp": 100,
+        "atk": 500,
+        "def": 50
+    },
+    "skill": "Chainsaw Paws",
+    "desc": "Created in hell, made to torture fallen souls.",
+    "author": "Krzyhau#8514",
+    "date": "2022/02/05"
+}

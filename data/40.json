@@ -1,0 +1,12 @@
+{
+    "name": "A Strange Man",
+    "stats": {
+        "hp": 75,
+        "atk": 50,
+        "def": 10
+    },
+    "skill": "Basilisk",
+    "desc": "Cursed man with the same cursed powers. Not much is known about him. It has been reported that he was first seen running around the forest areas in western Europe. No one who even encourted him escaped alive so we cannot be sure about his present position. He's responsible for deaths of around 15 people as we are speaking for 10.06.2021.",
+    "author": "Haszek#9153",
+    "date": "2021/10/06"
+}

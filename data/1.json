@@ -1,0 +1,12 @@
+{
+    "name": "Fat Fuck",
+    "stats": {
+        "hp": 1000,
+        "atk": 10,
+        "def": 10000
+    },
+    "skill": "Charge Attack",
+    "desc": "He's fat.",
+    "author": "Krzyhau#8514",
+    "date": "2021/09/23"
+}

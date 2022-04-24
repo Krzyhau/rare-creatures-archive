@@ -1,0 +1,12 @@
+{
+    "name": "Lord Foog The 2st",
+    "stats": {
+        "hp": 5000,
+        "atk": 25,
+        "def": 50
+    },
+    "skill": "Mini Foog Army",
+    "desc": "He needs no description, he is Lord Foog.",
+    "author": "Fridge#6641",
+    "date": "2021/10/06"
+}

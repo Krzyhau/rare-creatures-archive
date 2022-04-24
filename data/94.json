@@ -1,0 +1,12 @@
+{
+    "name": "prop_cable",
+    "stats": {
+        "hp": 0,
+        "atk": 0,
+        "def": 0
+    },
+    "skill": "Lack Of Collision.",
+    "desc": "You cannot collide nor even interact with the cable in any way. I have no fucking idea how.",
+    "author": "MrGermandeutsch#0245",
+    "date": "2022/01/19"
+}

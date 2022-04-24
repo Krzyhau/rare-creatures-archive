@@ -1,0 +1,12 @@
+{
+    "name": "Queen Spy",
+    "stats": {
+        "hp": 1000,
+        "atk": 50,
+        "def": "Potassium"
+    },
+    "skill": "Potassium Stealer",
+    "desc": "If the Queen from Deltarune Chapter 2 fused with Spy TF2",
+    "author": "Skelegame191#1606",
+    "date": "2021/11/03"
+}

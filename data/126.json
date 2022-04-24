@@ -1,0 +1,12 @@
+{
+    "name": "SaaS GooG",
+    "stats": {
+        "hp": 100,
+        "atk": 65,
+        "def": 107
+    },
+    "skill": "Situation Handling",
+    "desc": "His morals can't be doubted. Can find a way out of any situation, no matter how bad. +50 DEF when wearing his fancy suit.",
+    "author": "Hoshiyami#1691",
+    "date": "2022/04/24"
+}

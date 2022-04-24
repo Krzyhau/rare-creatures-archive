@@ -1,0 +1,12 @@
+{
+    "name": "Weerd Snail",
+    "stats": {
+        "hp": 80,
+        "atk": 7,
+        "def": 50
+    },
+    "skill": "Stress Reduction",
+    "desc": "Snail, reduces stress, repels creepers. IIf you try to attack it, its hat will make you high. +450 DEF if it's in shell.",
+    "author": "δDD#6335",
+    "date": "2021/09/27"
+}

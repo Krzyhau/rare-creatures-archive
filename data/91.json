@@ -1,0 +1,12 @@
+{
+    "name": "Funky Lil Fella",
+    "stats": {
+        "hp": 1,
+        "atk": 0,
+        "def": 100
+    },
+    "skill": "Sitting/Staring",
+    "desc": "Quite a funky lil fella.",
+    "author": "Nightmarebro932#3392",
+    "date": "2022/01/13"
+}

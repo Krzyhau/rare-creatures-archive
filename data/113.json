@@ -1,0 +1,12 @@
+{
+    "name": "Underwater Dean",
+    "stats": {
+        "hp": 100,
+        "atk": 10,
+        "def": 2000
+    },
+    "skill": "Chillax",
+    "desc": "He's chilling, even though he's drowning.",
+    "author": "Krzyhau#8514",
+    "date": "2022/02/17"
+}

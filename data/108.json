@@ -1,0 +1,12 @@
+{
+    "name": "THE Skeleton",
+    "stats": {
+        "hp": 50,
+        "atk": 100,
+        "def": 10
+    },
+    "skill": "Sneak Attack",
+    "desc": "Will appear out of nowhere and attack when you least expect him and deal +FIRE and +SPOOK damage.",
+    "author": "Oynospooky#9830",
+    "date": "2022/02/10"
+}

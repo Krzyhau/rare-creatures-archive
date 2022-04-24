@@ -1,0 +1,12 @@
+{
+    "name": "Combustible Lemon",
+    "stats": {
+        "hp": 9,
+        "atk": 420,
+        "def": 6
+    },
+    "skill": "House Burning",
+    "desc": "Proudly made by Cave Johnson.",
+    "author": "Trash7Can#6707",
+    "date": "2021/09/24"
+}

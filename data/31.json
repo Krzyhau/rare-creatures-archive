@@ -1,0 +1,12 @@
+{
+    "name": "GLaDOS Turret",
+    "stats": {
+        "hp": 0,
+        "atk": 300,
+        "def": 300
+    },
+    "skill": "Neurotoxin Bullets",
+    "desc": "100 million years later, GLaDOS wanted to be a turret. Still in a control of Aperture Science. Fires neurotixin.",
+    "author": "Astrid_Granger#8328",
+    "date": "2021/10/04"
+}

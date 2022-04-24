@@ -1,0 +1,12 @@
+{
+    "name": "Spider Sugar Cube",
+    "stats": {
+        "hp": 500,
+        "atk": "50x3",
+        "def": 200
+    },
+    "skill": "Caramel Shrapnels",
+    "desc": "Because everyone thinks it is a spider ghast, many underestimate it and get hit by shrapnels, thinking it will shoot a slow reflect-able fireball.",
+    "author": "ForgottenHorror#8370",
+    "date": "2021/10/19"
+}

@@ -1,0 +1,12 @@
+{
+    "name": "Tactical Clarkson",
+    "stats": {
+        "hp": "none",
+        "atk": "none",
+        "def": "none"
+    },
+    "skill": "Tactical",
+    "desc": "He has no stats - he's too good for them.",
+    "author": "Krzyhau#8514",
+    "date": "2022/01/13"
+}

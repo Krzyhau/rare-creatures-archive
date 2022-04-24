@@ -1,0 +1,12 @@
+{
+    "name": "The Inspector",
+    "stats": {
+        "hp": 1,
+        "atk": 100,
+        "def": 300
+    },
+    "skill": "Inspecting",
+    "desc": "He will inspect everything until he's found what he wants. What is it that he wants? Good question.",
+    "author": "Nightmarebro932#3392",
+    "date": "2022/02/13"
+}

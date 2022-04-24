@@ -1,0 +1,12 @@
+{
+    "name": "Mini Foog",
+    "stats": {
+        "hp": 500,
+        "atk": 10,
+        "def": 20
+    },
+    "skill": "Collective Power",
+    "desc": "This one is big and a bit shy. Is even stronger with other mini foogs, especially under a leader's commands.",
+    "author": "δDD#6335",
+    "date": "2021/10/06"
+}

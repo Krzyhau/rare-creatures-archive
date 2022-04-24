@@ -1,0 +1,12 @@
+{
+    "name": "Melee Fox",
+    "stats": {
+        "hp": 100,
+        "atk": 999,
+        "def": 20
+    },
+    "skill": "Wavedash and Shine",
+    "desc": "Pretends to be fast as fuck but just jumps around randomly like an idiot, while spamming shine.",
+    "author": "Hoshiyami#1691",
+    "date": "2021/09/24"
+}

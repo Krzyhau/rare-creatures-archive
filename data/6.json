@@ -1,0 +1,12 @@
+{
+    "name": "Crab Junior",
+    "stats": {
+        "hp": 3,
+        "atk": 2,
+        "def": 378
+    },
+    "skill": "Hide and Walk",
+    "desc": "Crab.",
+    "author": "Babyfurz#0152",
+    "date": "2021/09/23"
+}

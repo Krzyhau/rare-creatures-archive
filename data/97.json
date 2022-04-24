@@ -1,0 +1,12 @@
+{
+    "name": "Italian Goral",
+    "stats": {
+        "hp": 100,
+        "atk": 1001,
+        "def": 10
+    },
+    "skill": "Axe Throwing",
+    "desc": "Left his polish sentient tree for his love for an italian cuisine. Joined local protest forces when future nazis invaded Italy.",
+    "author": "Krzyhau#8514",
+    "date": "2022/01/24"
+}

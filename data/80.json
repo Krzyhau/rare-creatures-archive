@@ -1,0 +1,11 @@
+{
+    "name": "Questionable Game Design",
+    "stats": {
+        "hp": 80,
+        "lck": 32
+    },
+    "skill": "Same-turn Reinforcements",
+    "desc": "Does this even qualify as a creature? The only freak of nature is the guy who thought of this in the first place.",
+    "author": "Ember#0845",
+    "date": "2021/12/06"
+}

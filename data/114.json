@@ -1,0 +1,12 @@
+{
+    "name": "Rapping Goose",
+    "stats": {
+        "hp": 75,
+        "atk": 300,
+        "def": "Gooseilion"
+    },
+    "skill": "Rapping",
+    "desc": "Powerful goose born with singing talent.",
+    "author": "Just a Goose#1604",
+    "date": "2022/02/19"
+}

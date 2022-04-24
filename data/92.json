@@ -1,0 +1,12 @@
+{
+    "name": "Bulglar Mort",
+    "stats": {
+        "hp": 10,
+        "atk": 100,
+        "def": 999999999
+    },
+    "skill": "Feet Detection",
+    "desc": "Useful only when transformed into a British Mort.",
+    "author": "Krzyhau#8514",
+    "date": "2022/01/13"
+}

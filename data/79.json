@@ -1,0 +1,12 @@
+{
+    "name": "Thrift Store Pillow",
+    "stats": {
+        "hp": 5,
+        "atk": 100,
+        "def": 0
+    },
+    "skill": "Stare",
+    "desc": "Watches you from under the desk, talks when you lay on it.",
+    "author": "Nightmarebro932#3392",
+    "date": "2021/11/22"
+}

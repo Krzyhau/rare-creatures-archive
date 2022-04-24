@@ -1,0 +1,12 @@
+{
+    "name": "Sith Cube Lord",
+    "stats": {
+        "hp": 2000,
+        "atk": 500,
+        "def": 1500
+    },
+    "skill": "Force",
+    "desc": "He is so angry and dangerous",
+    "author": "CUmbrix#8683",
+    "date": "2021/11/02"
+}

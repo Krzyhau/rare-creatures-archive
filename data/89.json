@@ -1,0 +1,12 @@
+{
+    "name": "Very Loud Ice Cream",
+    "stats": {
+        "hp": 12,
+        "atk": 20,
+        "def": 4.3
+    },
+    "skill": "Being Very Loud",
+    "desc": "Nobody knows why it's so loud. One of the only thing known about it is that the Very Loud Ice Cream is alive.",
+    "author": "Crunch Brunch™#6533",
+    "date": "2022/01/13"
+}
