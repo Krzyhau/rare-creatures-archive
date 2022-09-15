@@ -1,5 +1,5 @@
 
-const MAX_CARDS = 128;
+const MAX_CARDS = 129;
 
 async function createCard(id) {
     let response = await fetch(`data/${id}.json`);
